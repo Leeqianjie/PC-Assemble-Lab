@@ -64,19 +64,19 @@ The following photographs were taken during the laboratory activity as evidence 
 
 ### Photo 1: Opening the Computer Case
 
-![Opening the computer case](images/pc-assembly-01.jpg)
+![Opening the computer case](images/picture1.jpg)
 
 The desktop computer case was opened to expose its internal components before starting the disassembly process.
 
 ### Photo 2: Identifying Internal Components
 
-![Internal computer components](images/pc-assembly-02.jpg)
+![Internal computer components](images/picture2.jpg)
 
 We examined the motherboard, RAM, power supply, cooling fan, storage drive and internal cables.
 
 ### Photo 3: Removing Computer Components
 
-![Removing computer components](images/pc-assembly-03.jpg)
+![Removing computer components](images/picture3.jpg)
 
 Our group worked together to remove the internal hardware components using appropriate tools, including a screwdriver.
 
